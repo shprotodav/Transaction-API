@@ -9,7 +9,7 @@ To testing of this project:
 4. Run both projects.
 5. Go to https://localhost:44368/swagger/index.html
 6. Complete the successful 'Register' request by entering the required details. Use a strong password!
-7. Make a successful 'Login' request by entering the data specified in p.5.
+7. Make a successful 'Login' request by entering the data specified in p.6.
 8. Copy the token from the response (from the 'Login' request).
 9. Go to https://localhost:44317/swagger/index.html
 10. Click the green 'Authorize' button on the right and paste the token into the appropriate field. Confirm by clicking the green 'Authorize' button and then click 'Close'.
