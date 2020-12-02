@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="5.6.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.6.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+      <ProjectReference Include="..\TestTask.Transaction.Common\TestTask.Transaction.Common.csproj" />
+    <ProjectReference Include="..\TestTask.Transaction.DAL\TestTask.Transaction.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

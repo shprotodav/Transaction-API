@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestTask.Transaction.Services</name>
+    </assembly>
+    <members>
+        <member name="T:TestTask.Transaction.Services.Controllers.TransactionController">
+            <summary>
+            Main controller.
+            Contains all the necessary queries described in the "Test case.pdf"
+            </summary>
+        </member>
+        <member name="M:TestTask.Transaction.Services.Controllers.TransactionController.DeleteById(System.Int64)">
+            <summary>
+            Deletes a record in the table by the passed TransactionId
+            </summary>
+        </member>
+        <member name="M:TestTask.Transaction.Services.Controllers.TransactionController.UpdateStatus(TestTask.Transaction.Common.DTOs.UpdateStatusDTO)">
+            <summary>
+            Updates the value of record's status in the table to the specified status by the passed TransactionId
+            </summary>
+        </member>
+        <member name="M:TestTask.Transaction.Services.Controllers.TransactionController.Merge(TestTask.Transaction.Common.DTOs.TransactionDTO[])">
+            <summary>
+            Merges an existing table with a passed table
+            </summary>
+            <remarks>
+            Pass the table in JSON format.
+            </remarks>
+        </member>
+        <member name="M:TestTask.Transaction.Services.Controllers.TransactionController.MergeByFile(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            Merges an existing table with a passed in the file table
+            </summary>
+            <remarks>
+            Pass the table in CSV-file. <para>   </para>
+            Needed CSV-headers:
+            <code>TransactionId,Status,Type,ClientName,Amount</code>
+            </remarks>
+        </member>
+        <member name="M:TestTask.Transaction.Services.Controllers.TransactionController.GetFiltered(System.String,System.String,System.String)">
+            <summary>
+            Returns filtered records from the table
+            </summary>
+            <remarks>
+            Specify values to retrieve records with corresponding values for these fields (if necessary).
+            </remarks>
+        </member>
+        <member name="M:TestTask.Transaction.Services.Controllers.TransactionController.DownloadFilteredExcelFile(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.String,System.String,System.String)">
+            <summary>
+            Downloads XL-file of filtered records from table
+            </summary>
+            <remarks>
+            Specify values to retrieve records with corresponding values for these fields (if necessary). <para>   </para>
+            Set <code>true</code> for each column from the table to be imported into the file.
+            </remarks>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,14 @@
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\bin\Debug\netcoreapp3.1\TestTask.Transaction.BL.deps.json
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\bin\Debug\netcoreapp3.1\TestTask.Transaction.BL.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\bin\Debug\netcoreapp3.1\TestTask.Transaction.BL.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\obj\Debug\netcoreapp3.1\TestTask.Transaction.BL.csprojAssemblyReference.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\obj\Debug\netcoreapp3.1\TestTask.Transaction.BL.AssemblyInfoInputs.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\obj\Debug\netcoreapp3.1\TestTask.Transaction.BL.AssemblyInfo.cs
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\obj\Debug\netcoreapp3.1\TestTask.Transaction.BL.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\obj\Debug\netcoreapp3.1\TestTask.Transaction.BL.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\bin\Debug\netcoreapp3.1\TestTask.Transaction.Common.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\bin\Debug\netcoreapp3.1\TestTask.Transaction.DAL.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\bin\Debug\netcoreapp3.1\TestTask.Transaction.Common.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\bin\Debug\netcoreapp3.1\TestTask.Transaction.DAL.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\obj\Debug\netcoreapp3.1\TestTask.Transaction.BL.csproj.CopyComplete
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.BL\obj\Debug\netcoreapp3.1\TestTask.Transaction.BL.csproj.CoreCompileInputs.cache

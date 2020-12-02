@@ -1,0 +1,9 @@
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.Common\bin\Debug\netcoreapp3.1\TestTask.Transaction.Common.deps.json
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.Common\bin\Debug\netcoreapp3.1\TestTask.Transaction.Common.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.Common\bin\Debug\netcoreapp3.1\TestTask.Transaction.Common.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.Common\obj\Debug\netcoreapp3.1\TestTask.Transaction.Common.csprojAssemblyReference.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.Common\obj\Debug\netcoreapp3.1\TestTask.Transaction.Common.AssemblyInfoInputs.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.Common\obj\Debug\netcoreapp3.1\TestTask.Transaction.Common.AssemblyInfo.cs
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.Common\obj\Debug\netcoreapp3.1\TestTask.Transaction.Common.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.Common\obj\Debug\netcoreapp3.1\TestTask.Transaction.Common.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.Common\obj\Debug\netcoreapp3.1\TestTask.Transaction.Common.csproj.CoreCompileInputs.cache

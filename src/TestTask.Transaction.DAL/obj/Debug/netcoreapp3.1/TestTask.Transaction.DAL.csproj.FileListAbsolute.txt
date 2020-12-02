@@ -1,0 +1,12 @@
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DAL\bin\Debug\netcoreapp3.1\TestTask.Transaction.DAL.deps.json
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DAL\bin\Debug\netcoreapp3.1\TestTask.Transaction.DAL.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DAL\bin\Debug\netcoreapp3.1\TestTask.Transaction.DAL.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DAL\obj\Debug\netcoreapp3.1\TestTask.Transaction.DAL.csprojAssemblyReference.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DAL\obj\Debug\netcoreapp3.1\TestTask.Transaction.DAL.AssemblyInfoInputs.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DAL\obj\Debug\netcoreapp3.1\TestTask.Transaction.DAL.AssemblyInfo.cs
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DAL\obj\Debug\netcoreapp3.1\TestTask.Transaction.DAL.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DAL\obj\Debug\netcoreapp3.1\TestTask.Transaction.DAL.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DAL\bin\Debug\netcoreapp3.1\TestTask.Transaction.Common.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DAL\bin\Debug\netcoreapp3.1\TestTask.Transaction.Common.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DAL\obj\Debug\netcoreapp3.1\TestTask.Transaction.DAL.csproj.CopyComplete
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DAL\obj\Debug\netcoreapp3.1\TestTask.Transaction.DAL.csproj.CoreCompileInputs.cache

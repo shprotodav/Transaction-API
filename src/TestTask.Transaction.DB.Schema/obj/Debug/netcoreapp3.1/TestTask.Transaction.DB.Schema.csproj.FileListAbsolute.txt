@@ -1,0 +1,17 @@
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Transaction.DB.Schema.deps.json
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Transaction.DB.Schema.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Transaction.DB.Schema.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Transaction.DB.Schema.csprojAssemblyReference.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Transaction.DB.Schema.AssemblyInfoInputs.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Transaction.DB.Schema.AssemblyInfo.cs
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Transaction.DB.Schema.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Transaction.DB.Schema.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Transaction.DB.Schema.csproj.CoreCompileInputs.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Transaction.DB.Schema.runtimeconfig.json
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Transaction.DB.Schema.runtimeconfig.dev.json
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Transaction.Common.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Transaction.DAL.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Transaction.Common.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Transaction.DAL.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Transaction.DB.Schema.csproj.CopyComplete
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Transaction\src\TestTask.Transaction.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Transaction.DB.Schema.genruntimeconfig.cache
