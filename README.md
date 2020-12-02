@@ -16,4 +16,4 @@ To testing of this project:
 
 Now you can execute any necessary request from the provided list.
 
-For easy testing of the project, you can first populate the database with values. To do this, it is recommended to use the 'Merge' request in the current project with the 'data.csv' file passed to it. This file is located at the root of the current repository (as well as repository Identity-API).
+For easy testing of the project, you can first populate the database with values. To do this, it is recommended to use the 'Merge' request in the current project with the 'data.csv' file passed to it. This file is located at the root of the current repository.
