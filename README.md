@@ -3,11 +3,11 @@
 This project is in conjunction with project Identity-API. Project Identity-API is used as an authorizer to execution of requests from the current project.
 
 To testing of this project:
-1. Clone this repository.
-2. Clone repository Identity-API
+1. Clone this repository and repository Identity-API
+2. In files '[Name of Project].DB.Schema/DataContext.cs' and '[Name of Project].Services/appsettings.json/appsettings.Dev.json' in both projects correct the values of 'connectionString' variables: replace "Server = VLAD-NOUT-HP; ..." to "Server = [PC_NAME]; ..." where [PC_NAME] is your PC name.
 3. Run both projects
 4. Go to https://localhost:44368/swagger/index.html
-5. Complete the successful 'Registration' request by entering the required details. Use a strong password!
+5. Complete the successful 'Register' request by entering the required details. Use a strong password!
 6. Make a successful 'Login' request by entering the data specified in p.5
 7. Copy the token from the response (from the 'Login' request)
 8. Go to https://localhost:44317/swagger/index.html
